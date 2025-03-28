@@ -1,6 +1,6 @@
 ---
 title: "Tongou TO-Q-SYS-J2T control via MQTT"
-description: "Integrate your Tongou TO-Q-SYS-J2T via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendor's bridge or gateway."
+description: "Integrate your Tongou TO-Q-SYS-JZT via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendor's bridge or gateway."
 addedAt: 2025-03-01T20:31:41
 pageClass: device-page
 ---
@@ -11,11 +11,11 @@ pageClass: device-page
 <!-- Do not use h1 or h2 heading within "## Notes"-Section. -->
 <!-- !!!! -->
 
-# Tongou TO-Q-SYS-J2T
+# Tongou TO-Q-SYS-JZT
 
 |     |     |
 |-----|-----|
-| Model | TO-Q-SYS-J2T  |
+| Model | TO-Q-SYS-JZT  |
 | Vendor  | [Tongou](/supported-devices/#v=Tongou)  |
 | Description | Din rail smart meter |
 | Exposes | switch (state), power, current, voltage, energy, ac_frequency, power_factor, temperature, event, over_current_setting, over_current_threshold, over_voltage_setting, over_voltage_threshold, under_voltage_setting, under_voltage_threshold, temperature_setting, temperature_threshold, over_power_setting, over_power_threshold, test1, test5 |
